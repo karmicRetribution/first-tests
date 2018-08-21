@@ -1,0 +1,226 @@
+TextEngine Word List
+
+
+?plural: ?MAIN?s
+
+
+@adjectives
+@nouns
+@verbs
+
+
+tale
+   	tale
+   	story
+		plural: stories
+   	saga
+	myth
+	legend
+	fable
+	epic
+   	
+yourInterests
+   	You have #adj_many# INTERESTS, including INTEREST1 and INTEREST2.
+	You are very interested in INTEREST1 and INTEREST2, among other things.
+	You are passionate about INTEREST1 and INTEREST2.
+	You spend a lot of time thinking about INTEREST1 and INTEREST2.
+	You have a penchant for INTEREST1, and also enjoy INTEREST2.
+	While you love INTEREST1, you won’t hesitate to spend a #adj_surprising# amount of time on INTEREST2.
+	You have #adj_few# subjects that you take special interest in, like INTEREST1 and INTEREST2.
+	You think INTEREST1 is #adj_positive# and INTEREST2 is also pretty keen.
+
+weaponChoice
+//SPECIBUS DESCRIPTION is that "It's $word1 and it's $word2 and it's $word3." bit.
+	You wield WEAPONkind. SPECIBUS DESCRIPTION.
+	Your strife specibus holds WEAPONkind. SPECIBUS DESCRIPTION.
+	You grab your trusty WEAPONkind to defend yourself. SPECIBUS DESCRIPTION.
+	You have trained extensively with WEAPONkind, and grab your favorite one for the trials ahead. SPECIBUS DESCRIPTION.
+	The only weapon you have on hand is a #adj_negative# WEAPONkind, but you'll make do. SPECIBUS DESCRIPTION. At least it fits in your strife specibus.
+	You never expected to be caught up in a battle for your life, but it turns out WEAPONkind is pretty useful in a pinch. SPECIBUS DESCRIPTION.
+
+ boggle
+   	boggle vacantly at
+   	ogle at
+   	glare with bafflement at
+   	are very confused by
+   	stare blankly at
+   	run around excitedly in
+	grin excitedly at
+	stare at
+   	do not even understand
+	are enthused about
+	are obviously pleased with
+	tare with trepidation at
+	fondly regard
+	gaze upon
+
+weird
+	weird
+	strange
+	silly
+	cute
+	goofy
+	stumpy
+	funny-looking
+	adorable
+	loud: 0.5
+	messed-up: 0.1
+	fucked-up: 0.2
+
+legendary
+	legendary
+	great
+	prophesied
+	chosen
+	predestined
+	foretold
+	divined
+
+hero
+	hero
+	leader
+	savior
+	one
+	royalty
+	coolkid: 0.001
+
+oppressed
+//help, help, we're being oppressed!
+	oppressed
+	dominated
+	threatened
+	tormented
+	tyrannized
+	mistreated
+	exploited
+	ridden roughshod over
+	enslaved: 0.5
+	forced into indentured servitude: 0.25
+	annoyed: 0.1
+	bothered: 0.1
+	gigglesnorted at: 0.01
+	awfully condescended to: 0.01
+	
+scary
+	scary
+	terrifying
+	creepy
+	intimidating
+	horrendous
+	horrid
+	frightening
+	fearsome
+	uncanny
+	awful
+	unseemly: 0.05
+	embarrassing: 0.01
+	monstrous
+	beastly
+	boss monster: 0.05
+	cruel
+	unkind
+	vicious
+	callous
+	sadistic: 0.25
+	rude: 0.05
+	annoying: 0.05
+	condescending: 0.05
+	giant
+	huge
+	gigantic
+	towering
+	vast
+	accursed
+	mystical: 0.1
+	bespelled: 0.5
+	CONSORTSOUNDing: 0.1
+	#scary#, #scary#: 0.05
+
+situation
+	situation
+	fate
+	problem
+	ancient curse
+	circumstance
+	state of affairs
+	status quo
+	happenstance: 0.1
+	inconvenience: 0.05
+	fuss: 0.05
+
+attitude
+	#attitude_positive#: 0.75
+	#attitude_negative#: 0.25
+
+attitude_positive
+   	as soon as you can
+   	with a spring in your step
+   	with a will
+	happily
+ 	bright-eyed and bushy-tailed
+	with self-confidence
+	like the feisty youngster you are
+	knowing this is what you were meant for
+	on the adventure you've always dreamed of
+	with a journey that will change you forever
+	with wonder in your eyes
+
+attitude_negative
+   	reluctantly
+   	cautiously
+	despite your misgivings
+	dreading your fate
+	fearing the worst
+
+admire
+	admire you
+	need your help
+	look up to you
+	depend on you
+	treat you like family
+	treat you like royalty
+
+helping
+	helping
+	taking care of
+	playing with
+	babysitting
+	spending time with
+	having fun with
+
+resolution
+	find peace
+	feel safe
+	become independent
+	re-populate the land
+	be happy again
+	be free
+	live the lives they want
+
+noblesse_oblige
+	with an iron fist: 0.2
+	which you have freed from its previous tyrannical master
+	with laughter instead of fear
+	your adventures have freed
+	for your CONSORT friends
+	in triumph
+
+disdain
+	This seems a lonely life, does it not?
+	Doesn't it all seem just a touch hollow?
+	Is this really all there is?
+	Is this really enough for you?
+
+sadly
+	sadly
+	regrettably
+	unfortunately
+	truly
+
+chatclient
+	Pesterchum
+	Trollian
+	BettyBother
+	Delirious Biznasty
+	Serious Business
+	Rebelgram
