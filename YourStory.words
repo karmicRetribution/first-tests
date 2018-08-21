@@ -1,5 +1,7 @@
 TextEngine Word List
 
+//This is JUSt the textile portion iof the Your Story script
+//by KR
 
 ?plural: ?MAIN?s
 
@@ -25,7 +27,7 @@ yourInterests
 	You are passionate about INTEREST1 and INTEREST2.
 	You spend a lot of time thinking about INTEREST1 and INTEREST2.
 	You have a penchant for INTEREST1, and also enjoy INTEREST2.
-	While you love INTEREST1, you won’t hesitate to spend a #adj_surprising# amount of time on INTEREST2.
+	While you love INTEREST1, you wonâ€™t hesitate to spend a #adj_surprising# amount of time on INTEREST2.
 	You have #adj_few# subjects that you take special interest in, like INTEREST1 and INTEREST2.
 	You think INTEREST1 is #adj_positive# and INTEREST2 is also pretty keen.
 
